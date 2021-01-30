@@ -1,0 +1,132 @@
+*{
+margin: 0; 
+padding: 0;
+}
+body{
+    text-align: center;
+font-family:   ver dana, sans-serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Redressed', cursive;
+    font-size: 562.5%;
+    color: #fffdf9;
+}
+h2{ font-family: 'Montserrat', sans-serif;
+    color: #008891;
+       /* padding: 1rem; */
+}
+.hello{
+    font-family: 'Montserrat', sans-serif;
+    color: #008891;
+    padding: 3rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #008891;
+}
+hr{
+    border-style: dotted;
+    border-width: 0.4rem;
+    border-top: 1rem;
+    width: 3rem;
+    margin: auto;
+    color: silver;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.prof_pic{
+    border-radius: 50%;
+    padding-top: 3rem;
+}
+.skill_pic{
+    padding-right: 30px;
+float: left;
+   border-radius: 0%;
+   width: 25%;
+}
+.skill_pic2{
+    padding-left: 30px;
+    float: right;
+   border-radius: 0%;
+   width: 25%;
+   padding: 1;
+}
+
+.top_container{
+    background-color: #beebe9;
+    padding-top: 100px ;
+    position: relative;
+
+} 
+.pro{
+    text-decoration: underline;
+    font-size: 2.5rem;
+    color: #fffdf9;
+    font-weight: normal;
+    
+}
+.top_cloud{
+    position: absolute;
+    top: 2.5rem;
+    right:21rem;
+}
+.bottom_cloud{
+    position: absolute;
+    bottom: 19rem;
+    left:19rem;
+}
+.skill-row1{
+    /* padding-top: 50px; */
+    line-height: 2rem;
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.footer-link , .btn{
+color: #ef4f4f;
+}
+.skill-row2{
+    /* padding-top: 50px; */
+    line-height: 2;
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.contact-me{
+    line-height: 3;
+}
+.btn{
+    background-image: linear-gradient(#beebe9, #008891);
+    color: white;
+    width: 10%;
+    height: 40px;
+    font-size: 20px;
+    border-style: none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius:7px;
+    margin: 2%;
+    margin-bottom: 3rem;
+}
+.bottom-container{
+    height: 10rem;
+    width: auto;
+    background-color:#008891;
+}
+.footer-link{
+    padding-top: 2rem;
+    font-size: 1.5rem;
+    color: #beebe9;
+    position: relative;
+    top: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.owner{
+color: white;
+font-size: 1.5rem;
+position: relative;
+top: 5rem;
+}
